@@ -1,14 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=68F7C6&width=435&lines=This+is+Hridoy+!+Learning+Enthusiast!;Currently+studying+at+PSTU!)](https://git.io/typing-svg)
 
 <h1 align="center">Hello! 👋, I'm Hridoy Chandra Sarker!</h1>
-<h3 align="center">A passionate Full stack developer from Bangladesh.</h3>
+<h3 align="center">A passionate Full stack developer and Cybersecurity enthusiast from Bangladesh.</h3>
 <br>
 
-- 🌱 I’m currently learning **Frameworks, Courses, and Programming!**
-  
+- 🌱 I’m currently learning **Frameworks, Courses, Programming, and Cybersecurity!**
+
 - 👯 I’m looking to collaborate on .....
 
-- 💬 Ask me about **MEARN, Programming, & Hackathon!**
+- 💬 Ask me about **MEARN, Programming, Hackathons, & Cybersecurity!**
 
 - 📫 How to reach me: **hcsarker2002@gmail.com**
 
