@@ -8,21 +8,23 @@
   
 - 👯 I’m looking to collaborate on .....
 
-- 💬 Ask me about  **MEARN, Programming...,& Hackathon!**
+- 💬 Ask me about **MEARN, Programming, & Hackathon!**
 
-- 📫 How to reach me  **hcsarker2002@gmail.com**
+- 📫 How to reach me: **hcsarker2002@gmail.com**
 
 - 📄 Know about my experiences [Hridoy Chandra Sarker](https://www.linkedin.com/in/hridoy-chandra-sarker/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hridoy75s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter"/></a>
-<a href="https://fb.com/hridoychandra.sarker.70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook"/></a>
-<a href="https://www.instagram.com/hridoy__73/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram"/></a>
+  <a href="https://twitter.com/hridoy75s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" /></a>
+  <a href="https://fb.com/hridoychandra.sarker.70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/hridoy__73/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" /> </a> <!-- Add other tools and languages --> </p>
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" /> </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hcsarker&show_icons=true&locale=en&layout=compact" alt="hcsarker" /></p>
 
