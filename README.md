@@ -47,10 +47,10 @@ I'm a passionate technologist with expertise spanning full-stack development, da
 
 ### 🏆 Competitive Programming & CTF
 <div align="center">
-  <a href="https://leetcode.com/yourusername/">
+  <a href="https://leetcode.com/hcsarker/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
-  <a href="https://www.hackerrank.com/yourprofile">
+  <a href="https://www.hackerrank.com/hridoy_pstu">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
   <a href="https://www.codechef.com/users/yourusername">
@@ -63,13 +63,13 @@ I'm a passionate technologist with expertise spanning full-stack development, da
 
 ### 🔐 Cybersecurity Platforms
 <div align="center">
-  <a href="https://tryhackme.com/p/yourusername">
+  <a href="https://tryhackme.com/p/mr.maco">
     <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
   </a>
-  <a href="https://app.hackthebox.com/profile/yourusername">
+  <a href="https://app.hackthebox.com/profile/hcsarker">
     <img src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox">
   </a>
-  <a href="https://www.kaggle.com/yourusername">
+  <a href="https://www.kaggle.com/hcsarker">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
 </div>
