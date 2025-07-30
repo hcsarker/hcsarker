@@ -66,10 +66,10 @@ I'm a passionate technologist with expertise spanning full-stack development, da
   <a href="https://tryhackme.com/p/mr.maco">
     <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
   </a>
-  <a href="https://app.hackthebox.com/profile/hcsarker">
+  <a href="https://account.hackthebox.com/profile/hcsarker">
     <img src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox">
   </a>
-  <a href="https://www.kaggle.com/hcsarker">
+  <a href="https://www.kaggle.com/hridoychandrasarker">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
 </div>
