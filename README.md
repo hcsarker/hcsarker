@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px"> Hello World! I'm Hridoy Chandra Sarker
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=68F7C6&width=600&lines=Full+Stack+Developer+%7C+Data+Science+Enthusiast;MEARN+Stack+Specialist+%7C+Competitive+Programmer;Cyber+Security+Researcher+%7C+Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=68F7C6&width=600&lines=Full+Stack+Developer+%7C+CTF+Player;Data+Science+Enthusiast+%7C+Competitive+Coder;Cyber+Security+Researcher+%7C+ML+Practitioner)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/hcsarker?tab=followers">
@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a versatile Full Stack Developer with expertise across multiple domains including web development, data science, and cybersecurity. Currently pursuing Computer Science at PSTU, I thrive on building robust applications, solving complex problems, and continuously expanding my technical horizons.
+I'm a passionate technologist with expertise spanning full-stack development, data science, and cybersecurity. Currently pursuing Computer Science at PSTU, I actively participate in competitive programming contests and cybersecurity challenges to sharpen my skills.
 
 ## 🛠️ Tech Stack
 
@@ -37,33 +37,42 @@ I'm a versatile Full Stack Developer with expertise across multiple domains incl
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-### 📱 Mobile Development
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-
-### 🗃️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-### 📊 Data Science & Analytics
+### 📊 Data Science & ML
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-### 🖥️ Systems Programming
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+### 🏆 Competitive Programming & CTF
+<div align="center">
+  <a href="https://leetcode.com/yourusername/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://www.hackerrank.com/yourprofile">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
+  <a href="https://www.codechef.com/users/yourusername">
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+  </a>
+  <a href="https://www.hackerearth.com/@yourusername">
+    <img src="https://img.shields.io/badge/-HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth">
+  </a>
+</div>
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### 🔐 Cybersecurity Platforms
+<div align="center">
+  <a href="https://tryhackme.com/p/yourusername">
+    <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+  <a href="https://app.hackthebox.com/profile/yourusername">
+    <img src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox">
+  </a>
+  <a href="https://www.kaggle.com/yourusername">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+</div>
 
 ## 📊 GitHub Stats
 
@@ -73,9 +82,12 @@ I'm a versatile Full Stack Developer with expertise across multiple domains incl
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hcsarker&theme=radical"/>
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=hcsarker&theme=onedark&row=2&column=3&margin-w=15&margin-h=15)
+- [![HackTheBox](https://img.shields.io/badge/HackTheBox-Rank%3A%20Top%2010%25-9FEF00?style=flat&logo=hackthebox)](https://app.hackthebox.com/profile/yourusername)
+- [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%205%25%20Player-212C42?style=flat&logo=tryhackme)](https://tryhackme.com/p/yourusername)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Problems%20Solved-FFA116?style=flat&logo=leetcode)](https://leetcode.com/yourusername/)
+- [![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/yourusername)
 
 ## 📫 Let's Connect
 
@@ -96,14 +108,16 @@ I'm a versatile Full Stack Developer with expertise across multiple domains incl
 
 ## 🔥 Current Focus
 
-- Building scalable web applications with MERN/MEAN stacks
-- Exploring machine learning with Python
-- Enhancing cybersecurity skills
-- Contributing to open source projects
+- Participating in CTF challenges on TryHackMe and HackTheBox
+- Solving DSA problems on LeetCode and CodeChef
+- Building end-to-end ML projects on Kaggle
+- Contributing to open-source security tools
 
 <p align="center">
   <img src="https://github.com/hcsarker/hcsarker/raw/output/github-contribution-grid-snake.svg" alt="snake gif">
 </p>
+
+
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=68F7C6&width=435&lines=This+is+Hridoy+!+Learning+Enthusiast!;Currently+studying+at+PSTU!)](https://git.io/typing-svg)
 
